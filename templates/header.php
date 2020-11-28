@@ -7,10 +7,10 @@
         <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
         <link rel="preconnect" href="https://fonts.gstatic.com">
-        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;700&display=swap" rel="stylesheet">
         <style>
             html, body, h1, h2, h3, h4, h5, h6 {
-                font-family: "Montserrat", "Verdana", sans-serif;
+                font-family: "Rubik", "Verdana", sans-serif;
             }
             .r-cursor-btn {
                 cursor: pointer;
